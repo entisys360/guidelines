@@ -1,7 +1,7 @@
 ![Logo of the project](/docs/images/entisys360.webp)
 
-# Entisys360 Guidelines
-> Coding, style and configuration guidelines
+# Coding and Style Guidelines
+> Coding, style and configuration guidelines for Entisys360
 
 This repository should serve as the single Source of Truth for the Entisys360 
 way of doing things.
