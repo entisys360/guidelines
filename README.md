@@ -1,18 +1,19 @@
 ![Logo of the project](/docs/images/entisys360.webp "Entisys360")
 
-# Coding and Style Guidelines
-> Coding, style and configuration guidelines for Entisys360 projects
+# Contributor Guidelines
+> Coding, style and configuration guidelines for 
+Entisys360 projects
 
-This repository should serve as the single Source of Truth for the Entisys360 
-way of doing things.
+This repository serves as the root Source of Truth for Git contributions to
+Entisys360 repositories.
 
-This should be a place to find succinct, authoritative answers when creating or 
+This is the place to find succinct, authoritative answers when creating or 
 reviewing code.
 
-Any changes made to the guidelines here should be discussed in the appropriate 
-Teams channel and will require 2 approvers prior to merge .
+Any changes made to the guidelines here should be discussed with the appropriate 
+team members and will require approval prior to merge.
 
-If a repository has requirements that make specific guidelines here 
+If a project or repository has requirements that make specific guidelines here 
 inappropriate they can be overridden by adding rules to the styleguide.md file 
 in a repository's /docs directory.
 
