@@ -7,7 +7,7 @@ shell code.
 
 ## Guidelines
 
-See Google styleguide linked below.
+Refer to the Google shell styleguide linked below.
 
 ## Ammendments, exceptions and conflicts
 
@@ -15,5 +15,6 @@ None
 
 ## Links
 
+Google shell styleguide
 https://google.github.io/styleguide/shell.xml
 
