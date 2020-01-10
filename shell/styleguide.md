@@ -1,15 +1,19 @@
-# Coding and Style Guidelines
-> Coding, style and configuration guidelines for shell scripting
+# Contributor Styleguide
+> Coding, style and configuration guidelines for 
+shell scripting
 
-This the place to find succinct, authoritative answers when creating or reviewing shell code.
+This is the place to find succinct, authoritative answers when creating or reviewing 
+shell code.
 
 ## Guidelines
 
-https://google.github.io/styleguide/shell.xml
+See Google styleguide linked below.
 
 ## Ammendments, exceptions and conflicts
 
 None
 
 ## Links
+
+https://google.github.io/styleguide/shell.xml
 
