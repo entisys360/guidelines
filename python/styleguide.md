@@ -7,11 +7,14 @@ Python code.
 
 ## Guidelines
 
-### Python 2 is deprecated!
+**Python 2 is deprecated!**
 
 For a quick reference use the Google styleguide below. 
+
 For cases not covered by Google's guide, refer to PEP 8.
+
 The Hitchiker's guide is worth the read.
+
 Python 2.7 is deprecated.
 
 ## Ammendments, exceptions and conflicts
