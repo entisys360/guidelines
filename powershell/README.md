@@ -1,17 +1,17 @@
-# Contributor Styleguide
+# Contributor Guidelines
 > Coding, style and configuration guidelines for 
 Powershell scripting
 
 This is the place to find succinct, authoritative answers when creating or reviewing 
 Powershell code.
 
+
 ## Guidelines
 
 Undefined
 
-## Ammendments, exceptions and conflicts
+For internal coding conventions see the [styleguide](styleguide.md).
 
-Undefined
 
 ## Links
 
@@ -26,3 +26,4 @@ https://powershellexplained.com/2017-04-10-Powershell-exceptions-everything-you-
 
 Scripting with the ValidateSet parameter
 https://www.gngrninja.com/script-ninja/2017/1/21/powershell-quick-tip-using-validateset 
+
