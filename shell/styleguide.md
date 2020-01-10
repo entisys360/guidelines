@@ -1,5 +1,3 @@
-![Logo of the project](/docs/images/entisys360.webp)
-
 # Coding and Style Guidelines
 > Coding, style and configuration guidelines for shell scripting
 
