@@ -19,6 +19,8 @@ For cases not covered by the style guide, refer to the best practices link.
 When creating new roles use the ansible-galaxy tool and refer to the 
 Ansilbe Galaxy documentation linked here.
 
+Familiarize yourself with the [core](https://github.com/entisys360/ansible-core) Ansible environment
+
 
 ## Links
  
