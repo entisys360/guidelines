@@ -9,7 +9,7 @@ Ansible code.
 ## Guidelines
 
 Adhere to all documented guidelines for 
-[YAML](https://github.com/entisys360/guidelines/tree/master/YAML) 
+[YAML](https://github.com/entisys360/guidelines/tree/master/yaml) 
 except where directly contradicted here.
 
 For a quick reference use the Ansible style guide linked below.
